@@ -6,16 +6,17 @@
 **Roll Number:** 25K-6553  
 
 ## Lab Objectives
-
-Understand basic C++ syntax
-
-Learn input/output using `cout` and `cin`
-
-Practice writing and compiling simple programs
+1. Introduce students to GitHub and setting up their profile with their first repository.
+2. Introduce the basic syntax and structure of the C programming language.
+3. Teach students how to write and compile simple C programs.
+4. Familiarize students with fundamental C programming concepts, such as variables and data types.
+5. Develop problem-solving skills by writing C programs to solve basic computational problems.
 
 ## Completed Tasks
-Installed C++ compiler
-
-Wrote first C++ program
-
-Successfully compiled and ran the program
+1. GitHub
+2. Creating a Branch in a Repository
+3. Creating a Pull Request of the created branch
+4. Merging branches to main repository
+5. Introduction to Integrated Development Environment (IDE).
+6. Introduction to C-Programming Language (Basic Structure, Inputs and Outputs, Variables, Data types, Format
+specifiers, escape sequences, Precision)
