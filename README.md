@@ -5,7 +5,7 @@
 
 **Roll Number:** 25K-6553  
 
-### Lab Objectives
+## Lab Objectives
 
 Understand basic C++ syntax
 
