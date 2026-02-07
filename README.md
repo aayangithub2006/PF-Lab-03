@@ -1,7 +1,7 @@
 # PF-Lab-03
-# Programming Fundamentals – Spring 2026
+# Programming Fundamentals – Spring 
 
-**Name:** Muhammad Aayan Khan
+**Name:** Muhammad Aayan Khan 2026
 
 **Roll Number:** 25K-6553  
 
