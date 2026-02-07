@@ -1,5 +1,5 @@
 # PF-Lab-03
-# Programming Fundamentals – Spring 2026
+# Programming Fundamentals – Spring 
 
 **Name:** Muhammad Aayan Khan
 
